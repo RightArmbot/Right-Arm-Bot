@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 from telegram.constants import ParseMode
 import config
 
-BOT_TOKEN = "PUT YOUR BOT TOKEN HERE"
+BOT_TOKEN = "8857539328:AAGoQYcCJk7gSMMvpSIGJ81ETqKVfIj9q3I"
 DB_FILE = "database.json"
 
 def load_db():
